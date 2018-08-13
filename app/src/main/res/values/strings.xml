@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Quotes: Famous People</string>
+    <string name="share_using">Share using?</string>
+    <string name="TextCopied">Text copied</string>
+
+    <!--Admob API-->
+    <string name="banner_ad_unit_id">ca-app-pub-3941279894802307/4412063474</string>
+    <!--test API-->
+    <!--<string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>-->
+</resources>
